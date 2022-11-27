@@ -58,3 +58,8 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+Assets/Objects/Zombie/Ch10_nonPBR@Walking.fbx
+Assets/Objects/Zombie/Ch10_nonPBR@Walking.fbx.meta
+Assets/Objects/Zombie/Ch10_nonPBR@Zombie Attack.fbx
+Assets/Objects/Zombie/Ch10_nonPBR@Zombie Death.fbx
+Assets/Objects/Zombie/Ch10_nonPBR@Zombie Idle.fbx
